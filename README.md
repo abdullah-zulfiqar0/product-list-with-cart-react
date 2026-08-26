@@ -37,7 +37,7 @@ It was designed to demonstrate clean component architecture, core React hooks, s
 
 ## 🚀 Live Demo & Links
 
-* **Live Application:** [View Live Demo](https://abdullah-zulfiqar0.github.io/product-list-with-cart-react/)
+* **Live Application:** [View Live Demo](https://product-list-with-cart-react-two.vercel.app/)
 * **Source Code Repository:** [GitHub Repository](https://github.com/abdullah-zulfiqar0/product-list-with-cart-react)
 
 ---
